@@ -13,11 +13,11 @@ http://www.navcoin.org
 
 |Logos|
 |:----|
-|Contains 4 versions of the NAVCoin logo. Two rectangular and two square, both with and without the word NAVCOIN underneath the logo.|
+|Contains 4 versions of the NAV Coin logo. Two rectangular and two square, both with and without the word NAV Coin underneath the logo.|
 
 |Social|
 |:-----|
-|Contains a social media banner which has the Logo, the brand name and the byline `the unbreakable code`. This should be the correct size for appearing on the facebook news feed etc.|
+|Contains a social media banner which has the Logo, the brand name and the byline `the unbreakable code`. This should be the correct size for appearing on the facebook news feed etc...|
 
 ## Coming Soon
 
