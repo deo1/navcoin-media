@@ -19,6 +19,6 @@ http://www.navcoin.org
 |:-----|
 |Contains a social media banner which has the Logo, the brand name and the byline `the unbreakable code`. This should be the correct size for appearing on the facebook news feed etc.|
 
-** Coming Soon **
+## Coming Soon
 
 We will be adding some basic press releases to the kit including information on the coin, the anonymous system and our upcoming feature releases.
