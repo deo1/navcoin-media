@@ -1,6 +1,6 @@
 ![alt text](https://raw.githubusercontent.com/navcoindev/navcoin-media/master/logo/logo-extended.png "Logo text 2")
 
-This is the official media kit for NAV Coin. NAVCoin is the worlds first fully anonymous cryptocurrency. It's anonymous network is completely powered by a separate Blockchain known as the NAV Subchain. For more information please visit the website:
+This is the official media kit for NAV Coin. NAV Coin is the worlds first fully anonymous cryptocurrency. It's anonymous network is completely powered by a separate Blockchain known as the NAV Subchain. For more information please visit the website:
 
 http://www.navcoin.org
 
