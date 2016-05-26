@@ -15,6 +15,10 @@ http://www.navcoin.org
 |:----|
 |Contains 4 versions of the NAV Coin logo. Two rectangular and two square, both with and without the word NAV Coin underneath the logo.|
 
+|Press Releases|
+|:-----|
+|Coin Swap - contains the official press release about the NAV Coin swap as well as the two image assets provided for the article.|
+
 |Social|
 |:-----|
 |Contains a social media banner which has the Logo, the brand name and the byline `the unbreakable code`. This should be the correct size for appearing on the facebook news feed etc...|
